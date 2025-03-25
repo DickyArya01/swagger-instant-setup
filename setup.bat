@@ -10,7 +10,7 @@ dotnet add package Newtonsoft.Json
 
 :: Path ke file Program.cs dan temp.txt
 set PROGRAM_FILE=%~dp0Program.cs
-set TEMP_FILE=%~dp0temp.txt
+set TEMP_FILE=%~dp0templateSwagger.txt
 set SHARED_LIBRARY_DIR=%~dp0SharedLibrary
 set PROJECT_FILE=
 
